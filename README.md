@@ -5,6 +5,6 @@ I'm a Undergraduate Student who is passionate about Learning new technologies ma
 
 
 ## Find me around the web 🌎: 
-- Learning in public on <a href="https://ayushyadav2001.github.io/ayushportfolio.github.io/">Ayush</a> 📹 ✍🏾
+- Portfolio <a href="https://ayushyadav2001.github.io/ayushportfolio.github.io/">Ayush</a> 📹 ✍🏾
 - Sharing updates on <a href="https://www.linkedin.com/in/ayush-yadav-7a48831aa">LinkedIn</a> 💼
 - Sharing My Projects on <a href="https://youtube.com/channel/UCSo8wngyTw1tVb043GdGC2A">YouTube</a> 💼
